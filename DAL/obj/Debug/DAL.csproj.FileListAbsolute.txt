@@ -1,0 +1,12 @@
+C:\Users\Jefferson\source\repos\CRUD2\DAL\bin\Debug\DAL.dll
+C:\Users\Jefferson\source\repos\CRUD2\DAL\bin\Debug\DAL.pdb
+C:\Users\Jefferson\source\repos\CRUD2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Jefferson\source\repos\CRUD2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\source\repos\CRUD2\DAL\obj\Debug\DAL.dll
+C:\Users\Jefferson\source\repos\CRUD2\DAL\obj\Debug\DAL.pdb
+C:\Users\Kennedy\Desktop\CRUD2\DAL\bin\Debug\DAL.dll
+C:\Users\Kennedy\Desktop\CRUD2\DAL\bin\Debug\DAL.pdb
+C:\Users\Kennedy\Desktop\CRUD2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Kennedy\Desktop\CRUD2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kennedy\Desktop\CRUD2\DAL\obj\Debug\DAL.dll
+C:\Users\Kennedy\Desktop\CRUD2\DAL\obj\Debug\DAL.pdb
